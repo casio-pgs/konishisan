@@ -1,0 +1,11 @@
+<svg id="新しいウィンドウで開くボタン_2" data-name="新しいウィンドウで開くボタン　2" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #191919;
+      }
+    </style>
+  </defs>
+  <path id="パス_196" data-name="パス 196" class="cls-1" d="M95.75,0V10h10V0Zm9,9h-8V3h8Z" transform="translate(-93.75)"/>
+  <path id="パス_197" data-name="パス 197" class="cls-1" d="M1,104.75v-9H0v10H10v-1H1Z" transform="translate(0 -93.75)"/>
+</svg>

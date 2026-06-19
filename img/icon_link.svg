@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_34432" data-name="グループ 34432" transform="translate(14832.5 6698.5)">
+    <path id="パス_22638" data-name="パス 22638" class="cls-1" d="M4.683,14H14V0H0V8.41" transform="translate(-14818 -6682) rotate(180)"/>
+    <g id="グループ_34416" data-name="グループ 34416" transform="translate(-3.732)">
+      <path id="パス_22639" data-name="パス 22639" class="cls-1" d="M-14810.96-6696h5.5v5.5" transform="translate(-6.808 -2)"/>
+      <path id="パス_22640" data-name="パス 22640" class="cls-1" d="M-14800.273-6696l-.562.563-8.436,8.438" transform="translate(-11.996 -2)"/>
+    </g>
+  </g>
+</svg>

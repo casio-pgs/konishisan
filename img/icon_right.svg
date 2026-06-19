@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.278" height="8.001" viewBox="0 0 16.278 8.001">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+  <path id="Icon_awesome-long-arrow-alt-right" data-name="Icon awesome-long-arrow-alt-right" class="cls-1" d="M11.407,12.805H.436A.436.436,0,0,0,0,13.241v2.035a.436.436,0,0,0,.436.436H11.407v1.674A.872.872,0,0,0,12.9,18l3.127-3.127a.872.872,0,0,0,0-1.233L12.9,10.515a.872.872,0,0,0-1.489.617Z" transform="translate(0 -10.258)"/>
+</svg>
